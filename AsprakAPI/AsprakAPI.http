@@ -1,0 +1,6 @@
+@AsprakAPI_HostAddress = http://localhost:5082
+
+GET {{AsprakAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
